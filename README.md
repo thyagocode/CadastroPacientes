@@ -2,7 +2,7 @@
 
 Sistema CRUD desenvolvido em Java utilizando JDBC e PostgreSQL.
 
-## Markdown
+## Tecnologias Utilizadas
 
 - Java
 - JDBC
