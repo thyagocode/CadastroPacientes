@@ -16,7 +16,7 @@ Sistema CRUD desenvolvido em Java utilizando JDBC e PostgreSQL.
 - Listagem
 - Busca por ID
 - Atualização
-- Exclusão
+- Exclusão de pacientes
 
 ## Estrutura
 
