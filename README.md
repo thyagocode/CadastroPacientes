@@ -34,4 +34,4 @@ Este projeto foi desenvolvido para praticar Programação Orientada a Objetos, J
 
 1. Clone o projeto
 2. Configure os dados de conexão com o PostgreSQL na classe Conexao.java.
-3. Execute o `Main.java`.
+3. Execute a classe `Main.java`.
