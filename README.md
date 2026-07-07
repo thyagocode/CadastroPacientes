@@ -1,5 +1,9 @@
 # Cadastro de Pacientes
 
+![Java](https://img.shields.io/badge/Java-21-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue)
+![Maven](https://img.shields.io/badge/Maven-3-red)
+
 Sistema CRUD desenvolvido em Java utilizando JDBC e PostgreSQL.
 
 ## Objetivo
